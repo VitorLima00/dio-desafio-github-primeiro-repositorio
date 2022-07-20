@@ -1,0 +1,10 @@
+Introdução à Programação e Pensamento Computacional
+
+Aula 15 - Estruturas de repetição
+
+Laço, controle de fluxo, Malhas de repetição, repetição,Loop
+
+Deve existir uma condição de parada, pois caso não haja podemos ficar preso em um loop infinito, essas podem ser:
+
+- Número de repetições pré-fixada 
+- Condução a ser satisfeita

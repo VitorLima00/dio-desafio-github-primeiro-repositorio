@@ -1,0 +1,16 @@
+AULA 1
+
+GIT
+
+Blob < Tree < Commit
+
+Blob (Bolhas) - Guarda a string;
+Tree (Arvores) - Junta blobs e outros Tree;
+Commit - Junta tudo;
+
+Todos os 3 geram um SHA1 de 40 caracter, se você alterar uma uma virgula altera todos os SHA1.
+
+Chave SSH - Conexão entre duas criptografia 
+2 chaves (1 pública e 1 privada)
+
+Clonar repositorio - git cone "link https"

@@ -1,0 +1,5 @@
+AULA 5 - DESAFIO
+
+git add . : adicionar alterações
+git commit -m "comentario que vc deseja dento dessas aspas" : salvar alterações
+git push origin main : enviar alterações para o github

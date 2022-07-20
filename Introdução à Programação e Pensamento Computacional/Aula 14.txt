@@ -1,0 +1,28 @@
+Introdução à Programação e Pensamento Computacional
+
+Aula 14 - Estruturas condicionais e operadores
+
+Condição - Estado de uma pessoa ou coisa
+
+Condicional - Que expressão uma condição ou suposição / Contem ou implica uma suposição ou hipótese
+
+Estrutura condicional é classificada em:
+
+Simples: Executa apenas se satisfeita
+Composta: Executa se satisfeita, e se não satisfeita executa a exceção
+Encadeada:Executa se satisfeita, e se não satisfeita executa outra condicional
+
+Operadores relacionais
+
+= Igual a
+<> Diferente de
+> Maior que
+< Menor que
+>= Maior ou igual a
+<= Menor ou igual a
+
+Operadores Lógicos
+
+AND
+OR
+NOT

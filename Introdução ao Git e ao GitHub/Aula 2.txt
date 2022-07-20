@@ -1,0 +1,8 @@
+AULA 2
+
+Iniciar repositorio - git init , cria uma pasta com .git chamada repositorio
+Mover arquivos - git add
+Criar commit - git commit
+
+"ls -a" - lista arquivos ocultos
+Criando um repositorio:

@@ -1,0 +1,7 @@
+Introdução à Programação e Pensamento Computacional
+
+Aula 13 - Instruções primitivas
+
+As instruções são linguagem de palavras-chave(vocabulário) de uma determinada de programação que tem por finalidade comandar um computador que irá tratar os dados.
+
+Utilização de operadores lógicos primitivos, como: + , - , /, * entre outros...

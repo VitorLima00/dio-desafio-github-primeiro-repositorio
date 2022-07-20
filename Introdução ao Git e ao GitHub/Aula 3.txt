@@ -1,0 +1,20 @@
+AULA 3 
+
+Untracked - Arquivos que o GIT ainda não tem ciencia
+Unmodified - Não modificado
+Modified - Modificado
+Staged - Aonde os arquivos estão se preparando
+
+*Adicionar os arquivos para o stage e depois comitar*
+
+Ao utilizar qualquer um desses 3 comandos :
+
+git add nomeArquivo
+git add*
+git add.
+
+Estamos movendo os arquivos para untrack ou modifail e arquivos modificados para staged
+
+git commit -m
+
+Movemos toda essa area de stage para nosso repositorio de fato
